@@ -1,4 +1,3 @@
 # JSONtoXML
 
-Ejemplo de lectura de un archivo JSON y escribir su contenido en un archivo XML.
-Este ejemplo está realizado en JAVA.
+Aplicación JAVA que lee un fichero JSON y escribe su contenido en un fichero XML.
